@@ -44,7 +44,7 @@ export default function BrideGroomSection() {
 
         <div className="portrait-frame">
           <img
-            src="public\1926afce-4860-4ce8-9225-53627cd253b6_image.jpg"
+            src="/1926afce-4860-4ce8-9225-53627cd253b6_image.jpg"
             alt="Bride Alia Nair"
           />
         </div>

@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section id="home" className="hero-section" aria-label="Wedding invitation hero">
       <div className="hero-garland-wrap">
         <img
-          src="public\7b0e75d5-7e29-4aab-9bf5-53d1be4600e3_herotopdecoration.svg"
+          src="/7b0e75d5-7e29-4aab-9bf5-53d1be4600e3_herotopdecoration.svg"
           alt="Wedding garland"
           className="hero-garland"
         />
@@ -41,19 +41,19 @@ export default function HeroSection() {
         <div className="mandap-scene">
           <div className="garland-side left-side" >
             <img
-              src="public\1dc97afe-a26e-4a90-82ad-d24a68a0c56d_herobottomdesign.svg"
+              src="/1dc97afe-a26e-4a90-82ad-d24a68a0c56d_herobottomdesign.svg"
               alt="Decorative garland"
             />
           </div>
           <div className="mandap-wrap">
             <img
-              src="public/6f720a34-59ca-4796-860a-260ff7a8f557_image.webp"
+              src="/6f720a34-59ca-4796-860a-260ff7a8f557_image.webp"
               alt="Mandap celebration"
             />
           </div>
           <div className="garland-side right-side">
             <img
-              src="public\1dc97afe-a26e-4a90-82ad-d24a68a0c56d_herobottomdesign.svg"
+              src="/1dc97afe-a26e-4a90-82ad-d24a68a0c56d_herobottomdesign.svg"
               alt="Decorative garland"
             />
           </div>
