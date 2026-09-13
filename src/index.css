@@ -67,16 +67,16 @@ textarea {
 .top-nav nav {
   max-width: 1240px;
   margin: 0 auto;
-  height: 72px;
+  height: 52px;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: clamp(3rem, 8vw, 9rem);
+  gap: clamp(1.5rem, 4vw, 4rem);
 }
 
 .top-nav a {
   color: rgba(255, 255, 255, 0.96);
-  font-size: clamp(1.6rem, 2vw, 2.4rem);
+  font-size: clamp(1.15rem, 1.5vw, 1.7rem);
   letter-spacing: 0.04em;
   font-weight: 500;
   transition: opacity 0.2s ease, transform 0.2s ease;
@@ -228,6 +228,12 @@ textarea {
   gap: 0;
   animation: slideUpHero 1.2s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
+@media(max-width:768px){
+  .hero-visuals{
+    padding:0 18px;
+    justify-content: center;
+  }
+}
 
 .pot {
   width: 190px;
@@ -298,8 +304,8 @@ textarea {
 .garland-side {
   position: fixed;
   bottom: 0;
-  width: 1135px;
-  max-width: 45vw;
+  width: 568px;
+  max-width: 30vw;
   height: auto;
   z-index: 9999;
   pointer-events: none;
