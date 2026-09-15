@@ -248,8 +248,8 @@ textarea {
 
 .mandap-scene {
   position: relative;
-  width: min(50vw, 680px);
-  min-height: 380px;
+  width: min(50vw, 400px);
+  min-height: 0;
   flex-shrink: 0;
   margin-bottom: -18px;
   display: flex;
