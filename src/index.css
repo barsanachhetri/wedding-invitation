@@ -71,7 +71,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: clamp(1.5rem, 4vw, 4rem);
+  gap: clamp(1.5rem, 8vw, 8rem);
 }
 
 .top-nav a {
